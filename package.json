@@ -2,8 +2,8 @@
   "name": "docblockr",
   "main": "./lib/docblockr.js",
   "version": "0.7.3",
-  "description": "A helper package for writing documentation",
-  "repository": "https://github.com/nikhilkalige/docblockr",
+  "description": "A fork of DocBlockr that supports Angular and created Markdown formatted documentation",
+  "repository": "https://github.com/varughese/docblockr",
   "license": "MIT",
   "engines": {
     "atom": ">0.50.0"
